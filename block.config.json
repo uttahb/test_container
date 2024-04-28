@@ -1,0 +1,17 @@
+{
+  "name": "test_container",
+  "type": "containerized",
+  "blockId": "Wi4_ELh1VuxN0O8i0-FTL",
+  "source": {
+    "https": "https://github.com/uttahb/test_container.git",
+    "ssh": "git@github.com:uttahb/test_container.git",
+    "branch": "block_test_container"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "language": "nodejs"
+}
